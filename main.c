@@ -54,6 +54,7 @@ int main() {
     } while(pilihan != 5);
 
     return 0;
+}
 
 void kalkulator_diskon() {
     float harga_awal, persentase_diskon;
