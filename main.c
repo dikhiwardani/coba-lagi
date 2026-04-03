@@ -156,7 +156,7 @@ void splitBill() {
 
     
         printf("\n==============================\n");
-        printf("        HASIL PEMBAGIAN       \n");
+        printf("        HASIL PEMBAGIAN ORANG     \n");
         printf("==============================\n");
         printf("Total Tagihan : Rp %.2f\n", total);
         printf("Jumlah Orang  : %d orang\n", orang);
