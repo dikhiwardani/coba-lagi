@@ -4,7 +4,7 @@ void kalkulator_diskon() {
     float jumlah_diskon, harga_akhir;
  
     printf("\n========================================\n");
-    printf("     KALKULATOR DISKON BELANJA\n");
+    printf("     KALKULATOR DISKON BELANJA ANAJYY\n");
     printf("========================================\n");
  
 
