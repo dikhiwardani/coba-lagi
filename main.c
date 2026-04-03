@@ -106,6 +106,7 @@ void bungaTabunganSederhana(){
     printf("===============================================\n");
     
     printf("Masukan Saldo Awal (Rp):");
+    printf("Anjing");
     scanf("%f", &saldoAwal );
         while (saldoAwal <= 0) {    
             printf("[ERROR] Saldo awal harus lebih dari 0!\n");
