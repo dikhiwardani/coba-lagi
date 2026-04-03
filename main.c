@@ -137,6 +137,7 @@ void splitBill() {
     float total;
     int orang;
     float hasil;
+    int min;
 
     printf("Total tagihan: ");
     scanf("%f", &total);
