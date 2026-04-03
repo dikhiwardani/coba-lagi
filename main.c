@@ -3,7 +3,7 @@ void bungaTabunganSederhana(){
     float saldoAwal, bungaBulanan, totalUang, totalBunga;
 
     printf("\n===============================================\n");
-    printf("     KALKULATOR BUNGA TABUNGAN SEDERHANA \n");
+    printf("     KALKULATOR BUNGA TABUNGAN SEDERHANA ANJAYY\n");
     printf("===============================================\n");
     
     printf("Masukan Saldo Awal (Rp):");
