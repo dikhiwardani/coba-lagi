@@ -163,7 +163,7 @@ void splitBill() {
 }
 
 void hitungSisaUang() {
-    float uangSaku, pengeluaran, sisa;
+    float uangSaku, pengeluaran, sisa, kyy;
 
     printf("Masukkan uang saku hari ini: ");
     scanf("%f", &uangSaku);
