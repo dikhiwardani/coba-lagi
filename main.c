@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <string.h>
 
+void kalkulator_diskon();
+void bungaTabunganSederhana();
+
 void tampilkanHeader() {
     printf("\n");
     printf("--------------------------------------------------------------\n");
